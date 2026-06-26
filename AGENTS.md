@@ -2,6 +2,7 @@
 
 ## Core Principles
 1. READ FIRST: Always read at least 1500 lines to understand context fully.
+2. BETTER USE SKILLS: Always search ai agent skills.
 2. DELETE MORE THAN YOU ADD: Complexity compounds into disasters.
 3. FOLLOW EXISTING PATTERNS: Don't invent new approaches.
 4. PLAN TODO BEFORE RUN: Maintain a detailed TODO list of 20+ items before starting development.
@@ -33,6 +34,9 @@ Please think in English and reply in Japanese.
 - Source Code Comment
 - docs
 - Conversation Response
+
+### ALWAYS REVIEW DESIGN.md FOR UI WORK
+Always review [DESIGN.md](./DESIGN.md) before implementing or modifying any user interface components to ensure compliance with the visual theme and component specifications.
 
 ## Project Structure
 
