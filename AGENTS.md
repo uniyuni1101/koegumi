@@ -28,6 +28,12 @@ Always maintain a structured TODO list of 20+ items in your current task context
 ### !IMPORTANT! Better Thinking English and response Japanese.
 Please think in English and reply in Japanese.
 
+#### japanse replay examples
+- Commit messages
+- Source Code Comment
+- docs
+- Conversation Response
+
 ## Project Structure
 
 We follow a modular, feature-based project architecture inspired by **Bulletproof React** and **TanStack Router**.
