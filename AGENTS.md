@@ -17,6 +17,7 @@ Once you have read the full codebase files, you have the complete context and do
 
 ### YOUR 20-POINT TODO LIST - YOU NEED THIS STRUCTURE
 Always maintain a structured TODO list of 20+ items in your current task context. This prevents you from losing track, skipping important validations, or repeating work.
+If Antigravity is Use artifact
 ```
 1. [ ] Read Login.tsx FULLY (1500+ lines) - you'll understand the whole flow
 2. [ ] Remove at least 50% of redundant code - it's there, you'll see it
